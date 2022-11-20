@@ -1,0 +1,19 @@
+.btn-mechanis {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+
+.btn-mechanis h6 {
+    font-weight: 350;
+}
+
+.btn-mechanis p {
+    font-size: 14px;
+}
+
+.btn-mechanis:hover {
+    border-color: darkblue;
+}
